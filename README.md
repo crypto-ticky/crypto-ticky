@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DreH-World
-- 👀 I’m interested in web development.
+- 👀 I’m interested in smart contract development.
 
 <!---
 DreH-World/DreH-World is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
