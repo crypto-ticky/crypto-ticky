@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @DreH-World
-- 👀 I’m interested in smart contract development.
+8 yrs of web application & 3 yrs of smart contract development experiences.
+Innovative ideas, passionate attitudes toward the latest information and
+technology, and great team spirit. This is my way how I move forward with you.
 
 <!---
 DreH-World/DreH-World is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
