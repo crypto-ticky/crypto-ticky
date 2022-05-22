@@ -5,15 +5,13 @@
     DeFi, DEX, DAO, GameFi ( Metaverse ) & NFT marketplace 
 </h3>
 
-<p align="center">
-    Hey, my name is Yano Aki from Japan and I am a senior blockchain engineer.
+Hey, my name is Yano Aki from Japan and I am a senior blockchain engineer.
 I have 8 years of web development experiences and 4 years of blockchain development experiences.
 As a senior smart contract, I have wonderful experiences in DeFi, DEX, DAO, GameFi, Metaverse and NFT marketplace.
 
 Especially, on the basis of profound knowledge of famous protocols like AAVE, Compound, Uniswap, Pancakeswap, Nouns NFT (Nouns DAO) and Olympus DAO, I have built several DeFi, DEX and Metaverse projects.
     
 After 4 years of experience, I mastered to write smart contracts in solidity language and to integrate web3 & DApp.
-</p>
 
 
 <!---
