@@ -1,3 +1,6 @@
+# Blockchain Developer | Advisor | Smart Contract Auditor
+## DeFi, DEX, DAO, GameFi ( Metaverse ) & NFT marketplace
+
 8 yrs of web application & 3 yrs of smart contract development experiences.
 Innovative ideas, passionate attitudes toward the latest information and
 technology, and great team spirit. This is my way how I move forward with you.
